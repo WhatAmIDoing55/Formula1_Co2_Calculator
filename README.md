@@ -1,7 +1,7 @@
 # Formula1_Co2_Calculator
 Python project to calculate technological improvements v potential schedule related Co2 savings in a Formula 1 Season.
 
-I recent years technogical improvements have constantly been made in fomula 1 resulting in more fuel efficient cars and a reduction in Co2, these include smaller engines and Kers systems etc. While this is a good things it seems the current race season schedule could be improved to further reduce Co2 from travel, and this would be low hanging fruit in terms of reducing green house gasses emitted during a season.
+In recent years, technogical improvements have constantly been made in fomula 1 resulting in more fuel efficient cars and a reduction in Co2, these include smaller engines and Kers systems etc. While this is a good things it seems the current race season schedule could be improved to further reduce Co2 from travel, and this would be low hanging fruit in terms of reducing green house gasses (GHG) emitted during a season.
 
 The Plan:
 - Calculate fuel consumion of an F1 Car "Now versus Then"
