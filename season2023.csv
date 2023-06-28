@@ -1,24 +1,24 @@
-,Round,Grand Prix,Circuit,Race date
-0,1,Bahrain Grand Prix,"Bahrain International Circuit, Sakhir",5 March
-1,2,Saudi Arabian Grand Prix,"Jeddah Corniche Circuit, Jeddah",19 March
-2,3,Australian Grand Prix,"Albert Park Circuit, Melbourne",2 April
-3,4,Azerbaijan Grand Prix,"Baku City Circuit, Baku",30 April
-4,5,Miami Grand Prix,"Miami International Autodrome, Miami Gardens, Florida",7 May
-5,6,Monaco Grand Prix,"Circuit de Monaco, Monaco",28 May
-6,7,Spanish Grand Prix,"Circuit de Barcelona-Catalunya, Montmeló",4 June
-7,8,Canadian Grand Prix,"Circuit Gilles Villeneuve, Montreal",18 June
-8,9,Austrian Grand Prix,"Red Bull Ring, Spielberg",2 July
-9,10,British Grand Prix,"Silverstone Circuit, Silverstone",9 July
-10,11,Hungarian Grand Prix,"Hungaroring, Mogyoród",23 July
-11,12,Belgian Grand Prix,"Circuit de Spa-Francorchamps, Stavelot",30 July
-12,13,Dutch Grand Prix,"Circuit Zandvoort, Zandvoort",27 August
-13,14,Italian Grand Prix,"Monza Circuit, Monza",3 September
-14,15,Singapore Grand Prix,"Marina Bay Street Circuit, Singapore",17 September
-15,16,Japanese Grand Prix,"Suzuka International Racing Course, Suzuka",24 September
-16,17,Qatar Grand Prix,"Lusail International Circuit, Lusail",8 October
-17,18,United States Grand Prix,"Circuit of the Americas, Austin, Texas",22 October
-18,19,Mexico City Grand Prix,"Autódromo Hermanos Rodríguez, Mexico City",29 October
-19,20,São Paulo Grand Prix,"Interlagos Circuit, São Paulo",5 November
-20,21,Las Vegas Grand Prix,"Las Vegas Strip Circuit, Las Vegas, Nevada[c]",18 November
-21,22,Abu Dhabi Grand Prix,"Yas Marina Circuit, Abu Dhabi",26 November
-22,Sources:[1][44],Sources:[1][44],Sources:[1][44],Sources:[1][44]
+,Round,Grand Prix,Circuit,Race date,Town,Location,Latitude,Longitude
+0,1,Bahrain Grand Prix,"Bahrain International Circuit, Sakhir",5 March, Sakhir,"ساخر, شهيدې حساس ولسوالۍ, روزگان ولايت, افغانستان",32.953941,65.540016
+1,2,Saudi Arabian Grand Prix,"Jeddah Corniche Circuit, Jeddah",19 March, Jeddah,"جدة, محافظة جدة, منطقة مكة المكرمة, 23434, السعودية",21.5810088,39.1653612
+2,3,Australian Grand Prix,"Albert Park Circuit, Melbourne",2 April, Melbourne,"Melbourne, City of Melbourne, Victoria, Australia",-37.8142454,144.9631732
+3,4,Azerbaijan Grand Prix,"Baku City Circuit, Baku",30 April, Baku,"Bakı, Yasamal rayonu, Bakı İnzibati Ərazisi, Bakı İqtisadi Zonası, Azərbaycan",40.3755885,49.8328009
+4,5,Miami Grand Prix,"Miami International Autodrome, Miami Gardens, Florida",7 May, Florida,"Florida, United States",27.7567667,-81.4639835
+5,6,Monaco Grand Prix,"Circuit de Monaco, Monaco",28 May, Monaco,Monaco,43.7323492,7.4276832
+6,7,Spanish Grand Prix,"Circuit de Barcelona-Catalunya, Montmeló",4 June, Montmeló,"Montmeló, Vallès Oriental, Barcelona, Catalunya, 08160, España",41.5515189,2.2480812
+7,8,Canadian Grand Prix,"Circuit Gilles Villeneuve, Montreal",18 June, Montreal,"Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada",45.5031824,-73.5698065
+8,9,Austrian Grand Prix,"Red Bull Ring, Spielberg",2 July, Spielberg,"Spielberg, Gemeinde Melk, Bezirk Melk, Niederösterreich, 3390, Österreich",48.2274518,15.3572755
+9,10,British Grand Prix,"Silverstone Circuit, Silverstone",9 July, Silverstone,"Silverstone, West Northamptonshire, England, United Kingdom",52.0877287,-1.0241177
+10,11,Hungarian Grand Prix,"Hungaroring, Mogyoród",23 July, Mogyoród,"Mogyoród, Gödöllői járás, Pest vármegye, Közép-Magyarország, 2146, Magyarország",47.5986636,19.2384215
+11,12,Belgian Grand Prix,"Circuit de Spa-Francorchamps, Stavelot",30 July, Stavelot,"Stavelot, Verviers, Liège, Wallonie, 4970, België / Belgique / Belgien",50.3942409,5.9310335
+12,13,Dutch Grand Prix,"Circuit Zandvoort, Zandvoort",27 August, Zandvoort,"Zandvoort, Noord-Holland, Nederland",52.3713394,4.5307624
+13,14,Italian Grand Prix,"Monza Circuit, Monza",3 September, Monza,"Monza e della Brianza, Lombardia, Italia",45.639544,9.278869369225038
+14,15,Singapore Grand Prix,"Marina Bay Street Circuit, Singapore",17 September, Singapore,Singapore,1.357107,103.8194992
+15,16,Japanese Grand Prix,"Suzuka International Racing Course, Suzuka",24 September, Suzuka,"鈴鹿市, 三重県, 日本",34.8817102,136.5836516
+16,17,Qatar Grand Prix,"Lusail International Circuit, Lusail",8 October, Lusail,"لوسيل, الضعاين, قطر",25.4228888,51.5197163
+17,18,United States Grand Prix,"Circuit of the Americas, Austin, Texas",22 October, Texas,"Texas, United States",31.2638905,-98.5456116
+18,19,Mexico City Grand Prix,"Autódromo Hermanos Rodríguez, Mexico City",29 October, Mexico City,"Ciudad de México, México",19.4326296,-99.1331785
+19,20,São Paulo Grand Prix,"Interlagos Circuit, São Paulo",5 November, São Paulo,"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, Brasil",-23.5506507,-46.6333824
+20,21,Las Vegas Grand Prix,"Las Vegas Strip Circuit, Las Vegas, Nevada[c]",18 November, Nevada[c],"Nevada, United States",39.5158825,-116.8537227
+21,22,Abu Dhabi Grand Prix,"Yas Marina Circuit, Abu Dhabi",26 November, Abu Dhabi,"أبو ظبي, أبوظبي, أبو ظبي, الإمارات العربية المتحدة",24.4538352,54.3774014
+22,Sources:[1][44],Sources:[1][44],Sources:[1][44],Sources:[1][44],Sources:[1][44],"Sources, Les Tours, Florentin-la-Capelle, Rodez, Aveyron, Occitanie, France métropolitaine, 12140, France",44.6365836,2.6076355
